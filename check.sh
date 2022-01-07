@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###############################################
-#       SCRIPT BASICO PARA CHECK DE BACKUP    #
+#    SCRIPT BASICO PARA CHECK DE ARQUIVOS     #
 ###############################################
 
 
